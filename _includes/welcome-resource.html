@@ -1,0 +1,11 @@
+{% for item in include.content %}
+  <header class="masthead">
+    <div class="container" style="background-color: #21252952;">
+      <div class="intro-text">
+        <div class="intro-lead-in">{{ item.text-1 }}</div>
+        <div class="intro-heading text-uppercase">{{ item.text-2 }}</div>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#{{ item.url-button }}">{{ item.text-button }}</a>
+      </div>
+    </div>
+  </header>
+{% endfor %}

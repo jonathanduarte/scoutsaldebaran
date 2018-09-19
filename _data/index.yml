@@ -1,0 +1,19 @@
+menu:
+  - link: services
+    name: Quienes Somos
+  - link: portfolio
+    name: Unidades
+  - link: about
+    name: Adultos en Movimiento
+  - link: team
+    name: Noticias
+  - link: multi
+    name: Multimedia
+  - link: contact
+    name: Contacto
+
+welcome-resource:
+  - text-1: Bienvenidos
+    text-2: Grupo Scout Aldebaran
+    text-button: Ver más
+    url-button: services

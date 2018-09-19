@@ -1,0 +1,8 @@
+#mainNav .navbar-brand {
+  color: #fff;
+  font-size: 2em;
+}
+
+#mainNav .navbar-brand:hover {
+    color: #fff;
+}
