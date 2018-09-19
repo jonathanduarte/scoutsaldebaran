@@ -11,6 +11,11 @@
     font-size: 1.90em;
 }
 
+#mainNav .navbar-nav .nav-item .nav-link {
+  font-size: 100%;
+  font-weight: 900;
+}
+
 section {
     padding: 70px 0;
 }

@@ -1,14 +1,10 @@
 menu:
   - link: about
     name: Quienes Somos
-  - link: portfolio
-    name: Unidades
-  - link: about
-    name: Equipo
   - link: team
+    name: Equipo
+  - link: news
     name: Noticias
-  - link: multi
-    name: Multimedia
   - link: contact
     name: Contacto
 
