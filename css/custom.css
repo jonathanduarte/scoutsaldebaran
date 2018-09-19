@@ -10,3 +10,11 @@
 #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.90em;
 }
+
+section {
+    padding: 70px 0;
+}
+
+.mb-15{
+  margin-bottom: 15px
+}

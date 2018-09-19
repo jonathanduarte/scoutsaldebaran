@@ -4,7 +4,7 @@ menu:
   - link: portfolio
     name: Unidades
   - link: about
-    name: Adultos en Movimiento
+    name: Equipo
   - link: team
     name: Noticias
   - link: multi
@@ -16,4 +16,4 @@ welcome-resource:
   - text-1: Bienvenidos
     text-2: Grupo Scout Aldebaran
     text-button: Ver más
-    url-button: services
+    url-button: about
