@@ -23,3 +23,11 @@ section {
 .mb-15{
   margin-bottom: 15px
 }
+
+.img-fluid {
+  margin: auto;
+}
+
+.center-element{
+  margin: auto;
+}
