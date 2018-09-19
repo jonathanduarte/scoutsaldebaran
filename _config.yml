@@ -1,9 +1,0 @@
-title: Grupo Scout Aldebaran
-description: >
-  Sitio Web Aldebaran.
-authores: IUPSM
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-permalink: /:title.html
