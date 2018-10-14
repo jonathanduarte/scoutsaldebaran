@@ -455,6 +455,8 @@ header.masthead .intro-text .intro-heading {
   background-color: #5a4591;
 }
 
+
+
 .timeline > li .timeline-image h4 {
   font-size: 10px;
   line-height: 14px;
@@ -693,3 +695,4 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #5a4591;
 }
+
